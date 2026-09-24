@@ -1,0 +1,5 @@
+AWS, acronimo di Amazon Web Services, è la piattaforma di cloud computing leader a 
+livello mondiale ed è gestita da Amazon.In parole semplici, AWS permette a chiunque —
+ dallo studente alla startup, fino alle più grandi multinazionali e agenzie governative
+  — di noleggiare risorse informatiche via Internet anziché dover acquistare, configurare
+   e mantenere server fisici e data center di proprietà
