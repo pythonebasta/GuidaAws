@@ -1,0 +1,7 @@
+Alcuni servizi hanno una quota gratuita senza scadenza, ad esempio:
+
+AWS Lambda: 1 milione di richieste al mese
+Amazon CloudWatch: alcune metriche e allarmi gratuiti
+Amazon DynamoDB: capacità limitata gratuita
+AWS IAM: gestione utenti e ruoli senza costi aggiuntivi
+Amazon SNS e SQS: quote gratuite mensili
