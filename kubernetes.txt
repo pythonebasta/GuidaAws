@@ -1,5 +1,0 @@
-AWS supporta pienamente Kubernetes tramite il servizio gestito
-Amazon EKS (Elastic Kubernetes Service).
-Amazon EKS è il servizio AWS progettato per creare,
-eseguire e scalare cluster Kubernetes senza dover gestire direttamente
-il control plane Kubernetes.
