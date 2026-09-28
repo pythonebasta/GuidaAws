@@ -1,0 +1,8 @@
+AWS (Amazon Web Services) offre centinaia di servizi cloud, 
+che possono essere raggruppati nelle principali categorie seguenti:
+
+Compute: esecuzione di server e applicazioni (EC2, Lambda, ECS, EKS).
+Storage: archiviazione di dati e backup (S3, EBS, Glacier).
+Database: database relazionali e NoSQL (RDS, DynamoDB, Redshift).
+Networking: reti e connettività (VPC, Route 53, Direct Connect,
+Transit Gateway)
